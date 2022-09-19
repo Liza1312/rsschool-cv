@@ -35,6 +35,7 @@ University | Specialization
 ---------- |:--------------:
 The Academy of Public Administration |Economist-manager
 Master's degree of the Academy of Public Administration|Master of Economic Sciences
+
 **2. Languages**
 * Russian, belarussian - native speaker.
 * English - B1.
